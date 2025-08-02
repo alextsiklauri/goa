@@ -1,0 +1,50 @@
+print(True or True)#ture
+print(False or True True True True) #ture
+print(False or True True ) #ture
+print(True or False) #true
+print(True or False False) #true
+print(True or False False False) #Flase
+print(True or False False False False)
+print(False or True True True)
+print(False or True True True True True )
+print(True or False False False False False False)
+
+X=False
+y=True
+print(x or y)
+ 
+x=True
+y=False
+print(x or y)
+
+X=True
+y=False
+print(y or x)
+
+x=False
+y=True
+print(y or x)
+
+x=False
+y=True
+print(x and y)
+
+x=False
+y=True
+print(y and x)
+
+x=True
+y=False
+print(y and x)
+
+x=False
+y=True
+print(x and y)
+ 
+owner=False
+maneger=True
+print(owner and maneger)
+
+Worcker=True
+CEO=False
+print(Worcker or CEO)
